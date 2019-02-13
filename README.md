@@ -17,6 +17,8 @@ You will need python, as well as a few modules for the program to work. If you d
  `pip install selenium`
   
  `pip install twilio `
+ 
+ Get the Firefox GeckoDriver [here](https://github.com/mozilla/geckodriver/releases) and add it to your PATH
   
   After customizing the code to your need (see 'Personalization' below) run : `python3 TigerOne.py`
   
