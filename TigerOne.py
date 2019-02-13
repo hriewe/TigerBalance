@@ -32,7 +32,7 @@ password.send_keys("")
 
 driver.find_element_by_id('submitButton').click()
 
-#Wait to load page
+# Wait to load page
 time.sleep(5)
 
 html = driver.page_source
