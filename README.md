@@ -8,19 +8,13 @@ Automate the checking of your TigerOne card balance and send a helpful text to y
 
 ## How to run
 
-You will need python, as well as a few modules for the program to work. If you dont already have these installed, you can run
+You will need python, as well as a few modules for the program to work.
 
- `pip install requests `
-
- `pip install bs4 `
-  
- `pip install selenium`
-  
- `pip install twilio `
+Run: `pip install -r requirements.txt`
  
- Get the Firefox GeckoDriver [here](https://github.com/mozilla/geckodriver/releases) and add it to your PATH
+Get the Firefox GeckoDriver [here](https://github.com/mozilla/geckodriver/releases) and add it to your PATH
   
-  After customizing the code to your need (see 'Personalization' below) run : `python3 TigerOne.py`
+After customizing the code to your need (see 'Personalization' below) run : `python3 TigerOne.py`
   
 ## Personalization
 
@@ -34,4 +28,4 @@ On line 52: Enter your phone number in the format "+1##########"
 
 ### Contact
 
-email - hriewe12@gmail.com
+email - hriewe13 at gmail.com
