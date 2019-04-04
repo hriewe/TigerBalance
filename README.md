@@ -2,9 +2,9 @@
 
 ![](img/Text.jpg)
 
-Automate the checking of your TigerOne card balance and send a helpful text to your phone. Instead of clicking through the multiple windows required to check you balance, save a couple seconds and run this program!* Have your balance conveniently texted to your phone for quick access.
+Automate the checking of your TigerOne card balance and send a helpful text to your phone. Instead of clicking through the multiple windows required to check your balance, save a couple seconds and run this program!* Have your balance conveniently texted to your phone for quick access.
 
-\* Code will need to be can personalized. Contact me for authorization!
+\* Code will need to be personalized. Contact me for authorization!
 
 ## How to run
 
