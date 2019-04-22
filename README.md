@@ -26,6 +26,10 @@ On line 30 and 31: You will need to enter your iROAR username and password. I do
 
 On line 52: Enter your phone number in the format "+1##########"
 
+## Implementation
+
+I have a slightly modified version of the program which I am running on a Raspbery Pi 3b+. The program runs every hour and will notify me of any balance changes since the last run. This way I am always notified within an hour if my balance increases/decreases.
+
 ### Contact
 
 email - hriewe13 at gmail.com
